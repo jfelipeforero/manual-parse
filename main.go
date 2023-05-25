@@ -1,4 +1,3 @@
-// chap1/manual-parse/main.go
 package main 
 
 import(
